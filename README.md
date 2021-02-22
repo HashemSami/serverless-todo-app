@@ -19,7 +19,7 @@ This application will allow creating/removing/updating/fetching TODO items. Each
 ### Installation requirments
 
 - If you don't have Nodejs installed yet. you'll need to [download Node.js](https://nodejs.org/en/download/) to be able to use this application.
-- install serverless framework to be abe to use the backend code on your aws lambda. make sure to [configuring your AWS credentials](https://www.serverless.com/framework/docs/providers/aws/cli-reference/config-credentials/) to allow the framework to make changes on your aws account.
+- install serverless framework to enable you to use the backend code on your aws lambda. make sure to [configuring your AWS credentials](https://www.serverless.com/framework/docs/providers/aws/cli-reference/config-credentials/) to allow the framework to make changes on your aws account.
 - Clone this repo and install the dependencies by running `npm i` for the frontend and backend projects
 
 ### Run the application
